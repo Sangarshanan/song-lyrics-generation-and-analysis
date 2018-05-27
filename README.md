@@ -8,4 +8,5 @@ Generative models like this are useful not only to study how well a model has le
 
 
 data: https://www.kaggle.com/mousehead/songlyrics
+
 Ref: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
