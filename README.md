@@ -1,10 +1,10 @@
 # Song Lyrics Dataset
 
 
-data: https://www.kaggle.com/mousehead/songlyrics
+Data: https://www.kaggle.com/mousehead/songlyrics
 
 
-### Eminem-Lyrics-generation-using-LSTM-and-Analysis-with-Word2vec
+### 1. Eminem-Lyrics-generation-using-LSTM-and-Analysis-with-Word2vec
 
 RNNs are very useful in NLP and language modelling
 
