@@ -6,7 +6,7 @@ Data: https://www.kaggle.com/mousehead/songlyrics
 
 ### 1. Eminem-Lyrics-generation-using-LSTM-and-Analysis-with-Word2vec
 
-RNNs are very useful in NLP and language modelling
+RNNs (Neural networks with feedback) are very useful in NLP and language modelling
 
 Recurrent neural networks can also be used as generative models.
 
