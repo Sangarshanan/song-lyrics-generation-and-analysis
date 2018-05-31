@@ -14,4 +14,4 @@ This means that in addition to being used for predictive models (making predicti
 
 Generative models like this are useful not only to study how well a model has learned a problem, but to learn more about the problem domain itself.
 
-Ref: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
+Reference: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
