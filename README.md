@@ -17,6 +17,6 @@ Generative models like this are useful not only to study how well a model has le
 Reference: https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/
 
 
-### Ed Sheeran lyrics reference (N Gram):
+### Ed Sheeran lyrics reference (N Gram)
 
 https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
