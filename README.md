@@ -20,3 +20,5 @@ Reference: https://machinelearningmastery.com/text-generation-lstm-recurrent-neu
 ### Ed Sheeran lyrics reference (N Gram)
 
 https://www.kaggle.com/shivamb/beginners-guide-to-text-generation-using-lstms
+
+### Word2Vec Analysis of the Lyrics
